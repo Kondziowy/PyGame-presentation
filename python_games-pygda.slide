@@ -1,0 +1,84 @@
+﻿Pisanie gier 2D w Pythonie
+prezentacja
+23 Mar 2014
+Tags: pygame, python, arcade, workshop, 2d, games, pygda, presentation
+
+Konrad Brodzik
+Network Software Engineer, Intel NPG
+konrad.b.brodzik@intel.com
+http://brodzik.it
+@lamafix
+
+
+* Reguły gry
+
+.image pytania.jpg
+
+* FAQ
+
+- Czemu Python?
+- Czemu PyGame?
+- Czy to ma zastosowanie?
+
+* Co?
+.html video.html
+
+* Jak? 
+.image owl.jpg 394 512 
+
+* Przygotowanie środowiska
+
+*** Wymagane
+- Python 2.7.8
+- PyGame 1.9.1
+
+* Co jest w pudełku
+
+- ładowanie grafiki (image)
+- obsługa dźwięku (mixer)
+- obsługa wideo (movie)
+- obsługa tekstu (font)
+- sprite i kolizje (sprite, Rect)
+
+* Podstawy PyGame
+
+.play podstawy.py /pygame.init/,/exit/
+
+* Sprite
+
+???
+
+* Sprite
+.image sprite.jpg
+
+* Sprite
+
+.play sprite.py /class/,/(screen)/
+
+* Sprite
+
+.play sprite.py /active/,/flip/
+
+* Ruch
+
+.play ruch.py /update/,/active/
+
+* Sterowanie
+
+.play sterowanie.py /update/,/screen/
+
+* Grawitacja
+
+.play grawitacja.py /update/,/player/
+
+* Kolizje
+
+.play kolizje.py /fill/,/flip/
+
+* Czcionka
+
+.play tekst.py /font/,/flip/
+
+* A mógłby Pan w 3D?
+
+.image panda3d.jpg
